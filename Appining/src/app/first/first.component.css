@@ -1,0 +1,76 @@
+
+
+.formContainer {
+    display:container;
+    flex:1;
+    background:#f6f6f6;
+    padding-bottom:20px;
+  }
+  
+  .name {
+    flex:1;
+    background:#f6f6f6;
+    padding:20px 10px 0px 20px;
+  }
+  
+  .address {
+    flex:1;
+    background:#f6f6f6;
+    padding:20px 10px 0px 20px;
+  }
+    
+   .email {
+    flex:1;
+    background:#f6f6f6;
+    padding:20px 10px 0px 20px;
+   }
+  
+  .genderContainer {
+    display:flex;
+    width:100px;
+    background:#f6f6f6;
+    padding:20px 10px 5px 20px;
+    font-size:12px;
+    height:20px;
+    text-align:center;
+    line-height:20px;
+  }
+  
+  .male {
+    flex:1;
+    /* background:red; */
+    border-top-left-radius:3px;
+    border-bottom-left-radius:3px;
+    cursor:pointer;
+    color:#ffffff;
+    font-size:10px;
+  }
+  
+  .female {
+    flex:1;
+    /* background:blue; */
+    border-top-right-radius:3px;
+    border-bottom-right-radius:3px;
+    cursor:pointer;
+    color:#ffffff;
+    font-size:10px;
+  }
+  
+  .submitBtn {
+    border:none;
+    background:green;
+    color:#dddddd;
+    width:100px;
+    height:24px;
+    font-size:12px;
+    font-weight:800;
+    cursor:pointer;
+  }
+  
+  .btnContainer {
+    flex:1;
+    background:#f6f6f6;
+    padding:20px 10px 0px 20px;
+  }
+  
+  
